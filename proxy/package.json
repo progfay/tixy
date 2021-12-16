@@ -33,7 +33,7 @@
   "devDependencies": {
     "@tsconfig/node16": "1.0.2",
     "@types/core-js": "2.5.5",
-    "@types/http-proxy": "1.17.7",
+    "@types/http-proxy": "1.17.8",
     "@types/node": "16.11.14",
     "@typescript-eslint/eslint-plugin": "5.7.0",
     "@typescript-eslint/parser": "5.7.0",
