@@ -34,7 +34,7 @@
     "@tsconfig/node16": "1.0.3",
     "@types/core-js": "2.5.5",
     "@types/http-proxy": "1.17.9",
-    "@types/node": "18.11.9",
+    "@types/node": "18.11.10",
     "@typescript-eslint/eslint-plugin": "5.45.0",
     "@typescript-eslint/parser": "5.45.0",
     "eslint": "8.28.0",
