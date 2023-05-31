@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/progfay/tixy#readme",
   "devDependencies": {
-    "@tsconfig/node16": "1.0.3",
+    "@tsconfig/node16": "1.0.4",
     "@types/core-js": "2.5.5",
     "@types/http-proxy": "1.17.9",
     "@types/node": "18.11.12",
